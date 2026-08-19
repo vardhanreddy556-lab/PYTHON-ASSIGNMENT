@@ -1,0 +1,12 @@
+PRODUCT ANALYSIS SUMMARY
+========================================
+
+Total Products : 150
+Average Price  : 35.42
+Highest Price  : 59.64
+Lowest Price   : 10.16
+Average Rating : nan
+
+Products per Category:
+Category
+Books    150
